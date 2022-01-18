@@ -22,4 +22,4 @@ body:
         - label: I want channels
         - label: I want a psycho database (postgresql)
         - label: I also want awesomeness!
-          value: true
+
