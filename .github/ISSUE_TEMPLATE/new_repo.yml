@@ -1,6 +1,6 @@
 name: Create repository
 description: Create a new repository for a package
-title: "[Create repo]: "
+title: "[Create repo]: _reponame_"
 labels: ["create", "repo"]
 assignees: ["superuser-marty-me-uk"]
 body:
@@ -11,8 +11,8 @@ body:
   - type: input
     id: repo-name
     attributes:
-      label: Repo name
-      description: Name your repo
+      label: Short description
+      description: Short description for your repo
   - type: checkboxes
     attributes:
       label: Requirements
