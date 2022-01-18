@@ -15,8 +15,8 @@ body:
       description: Name your repo
   - type: checkboxes
     attributes:
-      label: Require Django
-      description: This repo will be a Django project
+      label: Requirements
+      description: Select the third party projects to utilise
       options:
         - label: I want django!
         - label: I want channels
