@@ -1,0 +1,15 @@
+name: Create repository
+description: Create a new repository for a package
+title: "[Create repo]: "
+labels: ["create", "repo"]
+assignees: ["superuser-marty-me-uk"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for giving me more work!
+  - type: input
+    id: repo-name
+    attributes:
+      label: Repo name
+      description: Name your repo
