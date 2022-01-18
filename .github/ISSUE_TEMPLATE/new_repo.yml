@@ -13,3 +13,9 @@ body:
     attributes:
       label: Repo name
       description: Name your repo
+  - type: checkboxes
+    attributes:
+      label: Require Django
+      description: This repo will be a Django project
+      options:
+        - label: I want django!
