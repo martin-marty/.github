@@ -20,4 +20,5 @@ body:
       options:
         - label: I want django!
         - label: I want channels
+        - label: I want a psycho database
         - label: I also want awesomeness!
